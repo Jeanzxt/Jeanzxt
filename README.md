@@ -60,9 +60,10 @@ Estou sempre buscando aprender novas linguagens e criar projetos com propósito.
 ## ✦ Contato ✦
 
 - ✦ jean.zxt08@gmail.com  
-- ✦ Brasil
-- ✦ +55 43 988372206
----
+- ✦ Brasil  
+- ✦ +55 43 988372206  
+- ✦ [LinkedIn](https://www.linkedin.com/in/jean-torres-28b33b352/?trk=public-profile-join-page)  
+- ✦ [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Jean%20Torres-blue?logo=linkedin)](https://www.linkedin.com/in/jean-torres-28b33b352/?trk=public-profile-join-page)
 
 ## ✦ Filosofia de código ✦
 
