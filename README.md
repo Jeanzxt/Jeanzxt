@@ -15,7 +15,7 @@
       Estou constantemente em busca de novos aprendizados, explorando linguagens de programação e ferramentas que me desafiem a evoluir. Acredito que cada projeto é uma oportunidade de crescimento, e meu objetivo é criar soluções com propósito, eficiência e inovação.
     </td>
     <td>
-      <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3c3VndGFjNXp2NTc3aHdnNnpjMTloNDE0dTM1eWFrZGV2bXV6cjFodSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pcP2aV9uZ1yb6/giphy.gif" width="400"/>
+      <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3c3VndGFjNXp2NTc3aHdnNnpjMTloNDE0dTM1eWFrZGV2bXV6cjFodSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pcP2aV9uZ1yb6/giphy.gif" width="320"/>
     </td>
   </tr>
 </table>
