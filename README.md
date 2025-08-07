@@ -69,7 +69,7 @@
 - ✦ +55 43 988372206  
 - ✦ [LinkedIn](https://www.linkedin.com/in/jean-torres-28b33b352/?trk=public-profile-join-page)  
 - ✦ [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Jean%20Torres-blue?logo=linkedin)](https://www.linkedin.com/in/jean-torres-28b33b352/?trk=public-profile-join-page)
-- ✦ [![Instagram Badge]https://www.instagram.com/__jeanzxt?igsh=ZnA2aTB0b2Z3ZGI3&utm_source=qr
+- ✦ [![Instagram Badge](https://www.instagram.com/__jeanzxt?igsh=ZnA2aTB0b2Z3ZGI3&utm_source=qr
 
 ## ✦ Filosofia de código ✦
 
