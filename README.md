@@ -8,9 +8,9 @@
 
 ## ✦ Sobre mim ✦
 
-Sou estudante do 3º ano técnico em **Análise e Desenvolvimento de Sistemas**.  
-Proativo, curioso e criativo — apaixonado por tecnologia e por transformar ideias em soluções reais.  
-Estou sempre buscando aprender novas linguagens e criar projetos com propósito.
+Sou estudante do 3º ano técnico em Análise e Desenvolvimento de Sistemas, com perfil proativo, curioso e criativo. Tenho paixão por tecnologia e por transformar ideias em soluções funcionais que gerem impacto.
+Estou constantemente em busca de novos aprendizados, explorando linguagens de programação e ferramentas que me desafiem a evoluir. Acredito que cada projeto é uma oportunidade de crescimento, e meu objetivo é criar soluções com propósito, eficiência e inovação.
+
 
 <p align="right">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3c3VndGFjNXp2NTc3aHdnNnpjMTloNDE0dTM1eWFrZGV2bXV6cjFodSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pcP2aV9uZ1yb6/giphy.gif" width="270"/>
@@ -36,7 +36,8 @@ Estou sempre buscando aprender novas linguagens e criar projetos com propósito.
 - Aprendendo **React** para interfaces modernas  
 - Explorando **Node.js** para back-end e APIs  
 - Praticando boas práticas com **Git e GitHub**
-
+- Aprimorando lógica de programação com Python e desafios práticos
+    
 <p align="right">
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="150"/>
 </p>
