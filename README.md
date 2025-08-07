@@ -13,7 +13,7 @@ Proativo, curioso e criativo — apaixonado por tecnologia e por transformar ide
 Estou sempre buscando aprender novas linguagens e criar projetos com propósito.
 
 <p align="right">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3c3VndGFjNXp2NTc3aHdnNnpjMTloNDE0dTM1eWFrZGV2bXV6cjFodSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pcP2aV9uZ1yb6/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3c3VndGFjNXp2NTc3aHdnNnpjMTloNDE0dTM1eWFrZGV2bXV6cjFodSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pcP2aV9uZ1yb6/giphy.gif" width="270"/>
 </p>
 
 ---
