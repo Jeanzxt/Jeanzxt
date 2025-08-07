@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Banner Jean" />
+</p>
 <h1 align="center">JEAN</h1>
 <p align="center">
   <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100"/>
