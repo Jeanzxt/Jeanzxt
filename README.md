@@ -65,6 +65,7 @@ Estou constantemente em busca de novos aprendizados, explorando linguagens de pr
 - ✦ +55 43 988372206  
 - ✦ [LinkedIn](https://www.linkedin.com/in/jean-torres-28b33b352/?trk=public-profile-join-page)  
 - ✦ [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Jean%20Torres-blue?logo=linkedin)](https://www.linkedin.com/in/jean-torres-28b33b352/?trk=public-profile-join-page)
+- ✦ [![Instagram Badge](https://img.shields.io/badge/Instagram-@jean.zxt-purple?logo=instagram)](https://www.instagram.com/jean.zxt)  
 
 ## ✦ Filosofia de código ✦
 
